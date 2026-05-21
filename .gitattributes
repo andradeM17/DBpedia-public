@@ -1,0 +1,2 @@
+output/dictionaries/entity_types.txt filter=lfs diff=lfs merge=lfs -text
+output/dictionaries/entity_types.pickle filter=lfs diff=lfs merge=lfs -text

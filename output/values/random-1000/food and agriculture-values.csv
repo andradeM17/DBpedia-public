@@ -1,0 +1,11 @@
+http://dbpedia.org/resource/Kuttiattoor_Mango,http://dbpedia.org/ontology/origin,http://dbpedia.org/resource/India
+http://dbpedia.org/resource/Kuttiattoor_Mango,http://dbpedia.org/ontology/species,http://dbpedia.org/resource/Mangifera_indica
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/country,http://dbpedia.org/resource/Philippines
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/ingredient,http://dbpedia.org/resource/Coconut_milk
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/ingredient,http://dbpedia.org/resource/Corn_starch
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/ingredientName,"Coconut milk,cornstarch"
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/related,http://dbpedia.org/resource/Tibok-tibok
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/servingTemperature,Room temperature or chilled
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/type,http://dbpedia.org/resource/Dessert
+http://dbpedia.org/resource/Maja_blanca,http://dbpedia.org/ontology/alias,"Coconut pudding, Coconut cake, dudul"
+http://dbpedia.org/resource/Tibok-tibok,http://dbpedia.org/ontology/related,http://dbpedia.org/resource/Maja_blanca

@@ -1,0 +1,53 @@
+http://dbpedia.org/resource/Karl_Schwarzschild,http://dbpedia.org/ontology/knownFor,http://dbpedia.org/resource/Interior_Schwarzschild_metric
+http://dbpedia.org/resource/Triosephosphate_isomerase,http://dbpedia.org/ontology/ecNumber,5.3.1.1
+http://dbpedia.org/resource/AMG-517,http://dbpedia.org/ontology/casNumber,659730-32-2
+http://dbpedia.org/resource/AMG-517,http://dbpedia.org/ontology/chEMBL,229430
+http://dbpedia.org/resource/AMG-517,http://dbpedia.org/ontology/fdaUniiCode,172V4FBZ75
+http://dbpedia.org/resource/AMG-517,http://dbpedia.org/ontology/pubchem,16007367
+http://dbpedia.org/resource/Losoxantrone,http://dbpedia.org/ontology/casNumber,88303-60-0
+http://dbpedia.org/resource/Losoxantrone,http://dbpedia.org/ontology/fdaUniiCode,47KPH00809
+http://dbpedia.org/resource/Losoxantrone,http://dbpedia.org/ontology/pubchem,72116
+http://dbpedia.org/resource/11-Deoxycortisol,http://dbpedia.org/ontology/alternativeName,"11-Deoxycortisol; 11-Deoxycortisone; Cortoxelone; 17α,21-Dihydroxyprogesterone; 11-Desoxycortisol; 11-Deoxyhydrocortisone; 11-Desoxyhydrocortisone; 17α-Hydroxy-11-deoxycorticosterone; Reichstein's Substance S; Compound S; Cortodoxone; Cortexolone,"
+http://dbpedia.org/resource/11-Deoxycortisol,http://dbpedia.org/ontology/iupacName,"(1R,3aS,3bR,9aR,9bS,11aS)-1-Hydroxy-1-(2-hydroxy-1-oxoethyl)-9a,11a-dimethyl-1,2,3,3a,3b,4,5,8,9,9a,9b,10,11,11a-tetradecahydro-7H-cyclopenta[a]phenanthren-7-one"
+http://dbpedia.org/resource/11-Deoxycortisol,http://dbpedia.org/ontology/iupacName,"17α,21-Dihydroxypregn-4-ene-3,20-dione"
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,(+)-Pinitol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,(D)-(+)-Pinitol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,(D)-(+)-chiro-Inositol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,(D)-Pinitol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,3-O-Methyl-(D)-chiro-inositol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,Inzitol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,Pinnitol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/alternativeName,Sennitol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/iupacName,1(D)-chiro-Inositol
+http://dbpedia.org/resource/Pinitol,http://dbpedia.org/ontology/iupacName,"(1R,2S,3R,4S,5S,6S)-6-Methoxycyclohexane-1,2,3,4,5-pentol"
+http://dbpedia.org/resource/Carl_Gustav_Jacob_Jacobi,http://dbpedia.org/ontology/knownFor,http://dbpedia.org/resource/Hamilton–Jacobi_equation
+http://dbpedia.org/resource/Lyxose,http://dbpedia.org/ontology/alternativeName,L-Lyxose
+http://dbpedia.org/resource/Lyxose,http://dbpedia.org/ontology/alternativeName,Lyxopyranose
+http://dbpedia.org/resource/Lyxose,http://dbpedia.org/ontology/iupacName,"(2R,3R,4S)-2,3,4,5-Tetrahydroxypentanal"
+http://dbpedia.org/resource/Lyxose,http://dbpedia.org/ontology/iupacName,Lyxose
+http://dbpedia.org/resource/Lyxose,http://dbpedia.org/ontology/iupacName,lyxo-Pentose
+http://dbpedia.org/resource/Strabismus,http://dbpedia.org/ontology/treatment,http://dbpedia.org/resource/Strabismus_surgery
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Colpodea
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Colpodidae
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/kingdom,http://dbpedia.org/resource/SAR_supergroup
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/phylum,http://dbpedia.org/resource/Ciliate
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/domain,http://dbpedia.org/resource/Eukaryote
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/genus,http://dbpedia.org/resource/Colpoda
+http://dbpedia.org/resource/Colpoda_inflata,http://dbpedia.org/ontology/order,http://dbpedia.org/resource/Colpodida
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Ascomycota
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/class,http://dbpedia.org/resource/Incertae_sedis
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/division,http://dbpedia.org/resource/Ascomycota
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/family,http://dbpedia.org/resource/Incertae_sedis
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/kingdom,http://dbpedia.org/resource/Fungus
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/genus,http://dbpedia.org/resource/Cryptosporium
+http://dbpedia.org/resource/Cryptosporium_minimum,http://dbpedia.org/ontology/order,http://dbpedia.org/resource/Incertae_sedis
+http://dbpedia.org/resource/Sinopia,http://dbpedia.org/ontology/colourHexCode,CB410B
+http://dbpedia.org/resource/Shaun_Cole,http://dbpedia.org/ontology/academicDiscipline,http://dbpedia.org/resource/Galactic_astronomy
+http://dbpedia.org/resource/Pavel_Parenago,http://dbpedia.org/ontology/knownFor,http://dbpedia.org/resource/Galactic_astronomy
+http://dbpedia.org/resource/Chlortoluron,http://dbpedia.org/ontology/alternativeName,"CTU, chlorotoluron, 3-(3-Chloro-4-methylphenyl)-1,1-dimethylurea"
+http://dbpedia.org/resource/Chlortoluron,http://dbpedia.org/ontology/iupacName,"N′-(3-Chloro-4-methylphenyl)-N,N-dimethylurea"
+http://dbpedia.org/resource/Cinazepam,http://dbpedia.org/ontology/casNumber,172986-25-3
+http://dbpedia.org/resource/Cinazepam,http://dbpedia.org/ontology/fdaUniiCode,U4SS7UFXC7
+http://dbpedia.org/resource/Cinazepam,http://dbpedia.org/ontology/pubchem,629281
+http://dbpedia.org/resource/Tuberculostearic_acid,http://dbpedia.org/ontology/alternativeName,10-Methylstearic acid
+http://dbpedia.org/resource/Tuberculostearic_acid,http://dbpedia.org/ontology/iupacName,10-Methyloctadecanoic acid

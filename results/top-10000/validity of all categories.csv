@@ -1,0 +1,14 @@
+Category,Valid,Valid because there was no expected domain or range,Valid range but no expected domain,Valid domain but no expected range,Completely valid,Possibly Valid,"Possibly Valid (No expected domain, no actual range to check against)","Possibly Valid (No actual domain to check against, no expected range)","Possibly Valid (No actual domain to check against, range matches)","Possibly Valid (Domain matches, no actual range to check against)","Possibly Valid (No actual domain to check against, no actual range to check against)",Invalid,"Invalid (No expected domain, range does not match)","Invalid (Domain does not match, no expected range)","Invalid (Domain does not match, range matches)","Invalid (Domain matches, range does not match)","Invalid (No actual domain to check against, range does not match)","Invalid (Domain does not match, no actual range to check against)","Invalid (Domain does not match, range does not match)"
+"anthropology, psychology and everyday life",2270,0,54,830,1386,228,191,0,0,37,0,1613,408,664,0,514,0,0,27
+arts,17485,0,3759,8435,5291,6981,4394,0,0,2587,0,4469,2815,402,30,784,0,349,89
+biology,13393,0,292,8524,4577,575,483,0,0,92,0,4139,990,2064,6,740,0,165,174
+geography,222411,0,61456,9334,151621,9072,3088,0,0,5984,0,34967,12323,91,6864,13444,0,268,1977
+history,31569,0,11652,2018,17899,2893,1646,0,0,1247,0,3581,1300,583,451,905,0,90,252
+language and literature,8796,0,2729,3673,2394,2885,2179,0,0,684,22,2460,790,420,0,1081,0,122,47
+mathematics,1406,0,50,354,1002,67,65,0,0,2,0,1494,72,1403,0,19,0,0,0
+people,65815,0,14000,2268,49547,1937,1263,0,0,674,0,37606,7743,655,2276,26622,0,88,222
+philosophy,3237,0,0,1607,1630,637,586,0,0,51,0,650,246,385,0,18,0,1,0
+physics,10289,0,751,3373,6165,960,612,0,0,348,0,3921,493,3335,0,71,0,20,2
+religion,5004,0,78,1357,3569,2142,1293,0,0,849,0,544,287,107,7,79,0,31,33
+society and social sciences,35319,0,7480,12040,15799,8757,5794,1,0,2962,0,8430,3609,1904,478,1692,0,303,444
+technology,34281,0,1267,22627,10387,3061,2593,0,0,468,0,3615,1055,2064,31,246,0,135,84

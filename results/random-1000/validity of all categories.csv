@@ -1,0 +1,13 @@
+Category,Valid,Valid because there was no expected domain or range,Valid range but no expected domain,Valid domain but no expected range,Completely valid,Possibly Valid,"Possibly Valid (No expected domain, no actual range to check against)","Possibly Valid (No actual domain to check against, no expected range)","Possibly Valid (No actual domain to check against, range matches)","Possibly Valid (Domain matches, no actual range to check against)","Possibly Valid (No actual domain to check against, no actual range to check against)",Invalid,"Invalid (No expected domain, range does not match)","Invalid (Domain does not match, no expected range)","Invalid (Domain does not match, range matches)","Invalid (Domain matches, range does not match)","Invalid (No actual domain to check against, range does not match)","Invalid (Domain does not match, no actual range to check against)","Invalid (Domain does not match, range does not match)"
+arts and recreation,542,0,142,14,386,90,21,0,0,69,0,360,186,0,16,124,0,1,33
+biography,1738,0,178,34,1526,171,54,0,0,117,0,756,260,15,192,236,0,11,42
+food and agriculture,10,0,2,2,6,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+geography,1667,0,319,76,1272,133,39,0,0,94,0,167,45,6,27,83,0,2,4
+history,75,0,30,0,45,8,8,0,0,0,0,5,4,0,0,1,0,0,0
+language and literature,56,0,3,11,42,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+measurements,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+philosophy,8,0,0,2,6,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+religion,10,0,0,0,10,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+science,50,0,0,9,41,2,0,0,0,2,0,1,0,1,0,0,0,0,0
+social sciences,76,0,33,0,43,9,3,0,0,6,0,2,1,0,0,1,0,0,0
+technology,400,0,124,31,245,24,8,0,0,16,0,38,7,3,4,12,0,11,1
